@@ -1,5 +1,6 @@
 ### Hello World 👋
-![alt text](https://github.com/[EnaKrvavac]/[EnaKrvavac]/blob/[main]/ENA.jpg?raw=true)
+
+https://github.com/[EnaKrvavac]/[EnaKrvavac]/blob/[main]/ENA.jpg?raw=true
 <!--
 **EnaKrvavac/EnaKrvavac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

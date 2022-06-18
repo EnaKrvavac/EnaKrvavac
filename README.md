@@ -1,6 +1,8 @@
+
+![ENA](https://user-images.githubusercontent.com/61581893/174457618-d5feaaa5-a0f5-4d39-9e1d-da28ef1ce3ca.jpg)
+
 ### Hello World 👋
 
-https://github.com/[EnaKrvavac]/[EnaKrvavac]/blob/[main]/ENA.jpg?raw=true
 <!--
 **EnaKrvavac/EnaKrvavac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
